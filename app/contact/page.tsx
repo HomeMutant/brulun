@@ -8,8 +8,8 @@ export const metadata: Metadata = {
 };
 
 const socials = [
-  { href: "https://instagram.com/brulun", label: "Instagram", Icon: Instagram },
-  { href: "https://facebook.com/brulun", label: "Facebook", Icon: Facebook },
+  { href: "https://instagram.com/brulun_restaurant", label: "Instagram", Icon: Instagram },
+  { href: "https://www.facebook.com/BrulunRestaurant", label: "Facebook", Icon: Facebook },
   { href: "https://wa.me/60000000000", label: "WhatsApp", Icon: MessageCircle },
 ];
 
